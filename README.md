@@ -21,4 +21,4 @@ Reinforcement-Learning（RL） Related Papers from NeurIPS 2024
 18. [Seek Commonality but Preserve Differences: Dissected Dynamics Modeling for Multi-modal Visual RL](https://nips.cc/virtual/2024/poster/96632) - [code](https://github.com/Yara-HYR/DDM)
 19. [No-Regret Learning for Fair Multi-Agent Social Welfare Optimization](https://nips.cc/virtual/2024/poster/96887)
 
-The rest will come soon！
+**The rest will come soon！**
